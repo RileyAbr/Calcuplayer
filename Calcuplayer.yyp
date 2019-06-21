@@ -63,6 +63,30 @@
             }
         },
         {
+            "Key": "21542954-b78a-46dc-aeb1-5b81a518524c",
+            "Value": {
+                "id": "a040b28d-8615-4a07-98c2-0dac02f2255e",
+                "resourcePath": "sprites\\spr_sixButton\\spr_sixButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "27a44991-2202-4733-9f65-f7d2e9f17781",
+            "Value": {
+                "id": "21d020fe-34aa-4058-936b-9c18b35fc23d",
+                "resourcePath": "sprites\\spr_sevenButton\\spr_sevenButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2f9cd7a6-1f97-4edd-be7d-12c3c46cde1d",
+            "Value": {
+                "id": "9e209085-0ec0-4496-bb61-12d5f1e27954",
+                "resourcePath": "sprites\\spr_eightButton\\spr_eightButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3af38132-685b-4688-bdb5-10859326816e",
             "Value": {
                 "id": "eddc3535-75ec-493f-9d9e-1b135f56e399",
@@ -111,6 +135,14 @@
             }
         },
         {
+            "Key": "61ce902a-ea3e-416d-9e02-a0f7e2012a71",
+            "Value": {
+                "id": "7fcea2fa-f498-408e-a594-88e080ebead6",
+                "resourcePath": "sprites\\spr_fiveButton\\spr_fiveButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6bb68f30-113c-42e7-889d-6cdd39d098c1",
             "Value": {
                 "id": "5f1825e3-730d-4632-aa32-0238187e115c",
@@ -119,11 +151,27 @@
             }
         },
         {
-            "Key": "821663c8-8d9a-4326-a255-209570a91b90",
+            "Key": "7147e91d-03a6-41e2-9b3e-751d95b40f0e",
             "Value": {
-                "id": "5dc61af3-e572-43f6-848c-293f2f1bd557",
-                "resourcePath": "scripts\\SetFirstDigit\\SetFirstDigit.yy",
-                "resourceType": "GMScript"
+                "id": "659d7b36-2375-48bb-9f87-b295bdf8d59f",
+                "resourcePath": "views\\7147e91d-03a6-41e2-9b3e-751d95b40f0e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7ab21b49-5cdd-46c6-a04d-7dd9b732db8e",
+            "Value": {
+                "id": "27a06f17-ee70-403c-aa2f-3ae2639fabab",
+                "resourcePath": "sprites\\spr_zeroButton\\spr_zeroButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ac005e8-a52a-4b0f-b345-e4a3d13ed4b5",
+            "Value": {
+                "id": "e969b420-321c-4fcb-a3b9-da7de2dc83e6",
+                "resourcePath": "sprites\\spr_equalButton\\spr_equalButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -132,6 +180,14 @@
                 "id": "3c4ed22a-e891-4be6-8d26-4d73f8d23a60",
                 "resourcePath": "scripts\\DrawOutput\\DrawOutput.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8af8af74-a77e-4ef9-bd55-6c5cb8dde9ef",
+            "Value": {
+                "id": "853750eb-861e-495e-9199-f21f3854cc8f",
+                "resourcePath": "sprites\\spr_nineButton\\spr_nineButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +228,14 @@
                 "id": "43b0e2ff-38d4-448d-bb3c-006f01b3e420",
                 "resourcePath": "views\\98e87481-baea-43ad-980e-c1b37e85bd5f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9fe4e2da-4dd1-45f6-863e-6ba73e105026",
+            "Value": {
+                "id": "674be2c6-c347-4db0-9011-14b404098357",
+                "resourcePath": "sprites\\spr_threeButton\\spr_threeButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -239,19 +303,19 @@
             }
         },
         {
+            "Key": "e5e3889f-743a-4245-bb5c-9559e8af1855",
+            "Value": {
+                "id": "ba4b210b-675b-4ea0-b969-9018f95213e2",
+                "resourcePath": "sprites\\spr_fourButton\\spr_fourButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e70560d7-6851-4510-92bd-df894cc132fd",
             "Value": {
                 "id": "d1f3c46a-fb7e-4757-b914-3df7bf5edc24",
                 "resourcePath": "objects\\obj_twoButton\\obj_twoButton.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ea17ac34-d5e6-4dab-9a3b-475864373f2e",
-            "Value": {
-                "id": "fd876849-560a-4f58-9882-9588785182eb",
-                "resourcePath": "scripts\\SetSecondDigit\\SetSecondDigit.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -272,8 +336,6 @@
         }
     ],
     "script_order": [
-        "821663c8-8d9a-4326-a255-209570a91b90",
-        "ea17ac34-d5e6-4dab-9a3b-475864373f2e",
         "a03aaa12-6754-46df-92d1-3e2d1c81ec56",
         "8255ce3e-a76d-4aa7-ab9f-6037f52443ab",
         "8b81833e-2b6a-45e5-8245-d7bf624b19d5"
