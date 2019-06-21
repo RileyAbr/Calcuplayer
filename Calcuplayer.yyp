@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "310541bd-fd34-4f48-973b-5ecf7ec614f2",
+            "Value": {
+                "id": "399ab9e7-fc22-4f7f-a539-f0b7a5ecb210",
+                "resourcePath": "objects\\obj_multiplyButton\\obj_multiplyButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3af38132-685b-4688-bdb5-10859326816e",
             "Value": {
                 "id": "eddc3535-75ec-493f-9d9e-1b135f56e399",
@@ -123,6 +131,30 @@
             "Value": {
                 "id": "a9c11fc3-6609-4e08-b941-d25f36bd02db",
                 "resourcePath": "sprites\\spr_oneButton\\spr_oneButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4e47986d-3692-4a34-9a7e-b5ce89d95f83",
+            "Value": {
+                "id": "a8cacf8a-af9b-4838-b797-1b686bb53cea",
+                "resourcePath": "sprites\\spr_return\\spr_return.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "50a0180d-b0a8-4069-9114-c41069160a57",
+            "Value": {
+                "id": "9c344748-e5a7-4525-8edf-75cde7f8e4ad",
+                "resourcePath": "objects\\obj_divideButton\\obj_divideButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "53f726ed-5c3c-4beb-b52e-4e34b67ceba8",
+            "Value": {
+                "id": "d2119240-69bc-4cdd-8dff-b21ac6d60953",
+                "resourcePath": "sprites\\spr_addButton\\spr_addButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -183,6 +215,14 @@
             }
         },
         {
+            "Key": "6d765a29-56c3-410a-a7ec-bc1476b3ff1e",
+            "Value": {
+                "id": "346ad042-f2c3-4ad6-b35d-d1c2a3430308",
+                "resourcePath": "sprites\\spr_subtractButton\\spr_subtractButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7147e91d-03a6-41e2-9b3e-751d95b40f0e",
             "Value": {
                 "id": "659d7b36-2375-48bb-9f87-b295bdf8d59f",
@@ -203,6 +243,14 @@
             "Value": {
                 "id": "d0e47996-ab37-46a3-b316-6b9ca22b3689",
                 "resourcePath": "objects\\obj_eightButton\\obj_eightButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a6a28b4-5083-4349-9cd2-445536ba40a2",
+            "Value": {
+                "id": "76428ef9-1aca-4665-be03-b9d8ee6f07b5",
+                "resourcePath": "objects\\obj_return\\obj_return.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -236,6 +284,14 @@
                 "id": "3b6337b8-3746-4089-84d1-a98cb44dfced",
                 "resourcePath": "objects\\obj_sevenButton\\obj_sevenButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8ad409f6-34ff-483e-b7e6-f14d3641dcbc",
+            "Value": {
+                "id": "c183d213-63d3-4f1c-83f2-ec36d8381cb1",
+                "resourcePath": "sprites\\spr_multiplyButton\\spr_multiplyButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -287,6 +343,14 @@
             }
         },
         {
+            "Key": "9d1b9066-78e3-488f-94ac-4f4da4b024a5",
+            "Value": {
+                "id": "1f16227b-d5c8-4513-bbb9-d843b817af55",
+                "resourcePath": "objects\\obj_subtractButton\\obj_subtractButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9fe4e2da-4dd1-45f6-863e-6ba73e105026",
             "Value": {
                 "id": "674be2c6-c347-4db0-9011-14b404098357",
@@ -319,6 +383,14 @@
             }
         },
         {
+            "Key": "a8a8bb58-9596-4ae4-8dda-77f80e316893",
+            "Value": {
+                "id": "c5f3a064-8d94-4e86-9e45-3d00b70fbc72",
+                "resourcePath": "objects\\obj_addButton\\obj_addButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a99e9ece-6105-44d8-a61a-b48547b917de",
             "Value": {
                 "id": "216c789c-e8f1-47d1-b3f8-23bea1c53b05",
@@ -327,11 +399,27 @@
             }
         },
         {
+            "Key": "aecab75a-3c45-4bf2-b035-1710d3dd6298",
+            "Value": {
+                "id": "13536e08-e4c6-44a3-afdc-34344c0bf8da",
+                "resourcePath": "rooms\\room_levelZero\\room_levelZero.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "af354fd7-f6f9-4938-a0d2-b4564725beea",
             "Value": {
                 "id": "c187d208-06ed-4690-bef7-d9e81fcfc3ce",
                 "resourcePath": "views\\af354fd7-f6f9-4938-a0d2-b4564725beea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be057085-63cf-4f1c-a5ac-6aab3633712f",
+            "Value": {
+                "id": "f304c8f0-ac72-4a19-98f8-66397508f039",
+                "resourcePath": "sprites\\spr_divideButton\\spr_divideButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

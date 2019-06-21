@@ -1,5 +1,6 @@
-global.firstDigit = -1;
-global.secondDigit = -1;
+global.firstDigit = "";
+global.operator = "";
+global.secondDigit = "";
 
 global.firstOrSecond = true;
 
