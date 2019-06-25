@@ -1,0 +1,1 @@
+noClicks = round(random_range(1, 10));

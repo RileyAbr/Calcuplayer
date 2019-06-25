@@ -9,7 +9,7 @@
         "c8d32c2b-2476-4cde-b287-d4528e13f1f3"
     ],
     "filterType": "GMSprite",
-    "folderName": "spr_levelOne",
+    "folderName": "spr_levelThree",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

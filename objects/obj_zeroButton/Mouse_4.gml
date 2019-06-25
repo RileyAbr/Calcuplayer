@@ -1,0 +1,1 @@
+SetDigits(0, room_levelZero);
