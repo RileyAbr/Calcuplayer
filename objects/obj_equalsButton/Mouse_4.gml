@@ -1,2 +1,3 @@
-global.draw = true;
-
+if(global.firstOrSecond) {
+	global.draw = true;
+}

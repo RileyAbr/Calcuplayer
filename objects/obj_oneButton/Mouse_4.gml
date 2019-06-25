@@ -1,2 +1,1 @@
-SetDigits(1)
-room_goto(room_levelOne);
+SetDigits(1, room_levelOne);
