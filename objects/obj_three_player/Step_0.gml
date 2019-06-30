@@ -4,7 +4,7 @@ key_right = keyboard_check(vk_right)
 			|| keyboard_check(ord("D"));
 key_jump = keyboard_check_pressed(vk_space) 
 			|| keyboard_check_pressed(vk_up)
-			|| keyboard_check(ord("W"));
+			|| keyboard_check_pressed(ord("W"));
 
 var move = key_right - key_left;
 
