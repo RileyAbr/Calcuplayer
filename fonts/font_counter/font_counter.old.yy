@@ -2,7 +2,7 @@
     "id": "888ed38a-d300-4360-9fed-2f3dd65add83",
     "modelName": "GMFont",
     "mvc": "1.1",
-    "name": "font_test1",
+    "name": "font_counter",
     "AntiAlias": 1,
     "TTFName": "",
     "ascenderOffset": 0,
