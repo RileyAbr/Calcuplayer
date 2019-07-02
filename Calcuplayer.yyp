@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "16226bf8-5e41-4342-9757-56b1580057d5",
+            "Value": {
+                "id": "4efbca2b-fd94-4007-bc67-8ed04710860d",
+                "resourcePath": "sprites\\spr_seven_exclam\\spr_seven_exclam.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "16748b12-9360-4a2f-a446-275b50342477",
             "Value": {
                 "id": "9f0d4bc1-cddb-4c36-acbf-495e6d6af21a",
@@ -179,6 +187,14 @@
             "Value": {
                 "id": "edff9d33-4b33-4857-908e-5e50bd2f7586",
                 "resourcePath": "sprites\\spr_three_player\\spr_three_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2de93ff8-1060-438e-b98d-e94d6116102c",
+            "Value": {
+                "id": "603ac897-6fa7-4100-9da1-e923d42b99d1",
+                "resourcePath": "sprites\\spr_seven_bar\\spr_seven_bar.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -564,6 +580,14 @@
                 "id": "1f16227b-d5c8-4513-bbb9-d843b817af55",
                 "resourcePath": "objects\\obj_subtractButton\\obj_subtractButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9e12a6d0-e26d-41a6-9159-75eb38fbfc9c",
+            "Value": {
+                "id": "a455bd7e-72a0-4594-b445-48e1edffca67",
+                "resourcePath": "sprites\\spr_seven_question\\spr_seven_question.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
