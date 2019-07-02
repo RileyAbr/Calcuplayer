@@ -1,3 +1,5 @@
+randomize();
+
 global.firstDigit = "";
 global.operator = "";
 global.secondDigit = "";
