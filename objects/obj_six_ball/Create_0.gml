@@ -1,0 +1,1 @@
+vert = random_range(7, 20);
