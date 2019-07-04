@@ -6,4 +6,8 @@ global.secondDigit = "";
 
 global.firstOrSecond = true;
 
-global.draw = false;
+global.draw = false
+
+
+//Used in the RollSlots method;
+global.times_pulled = 0;
