@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_five_attack3",
     "eventList": [
-        
+        {
+            "id": "f7d00b1e-f24d-41ff-a3d2-595a4bc3c003",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "ddaa3f02-97d0-41cc-8d88-326eb135787b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
