@@ -18,6 +18,7 @@ if(move_hort != 0 && move_vert != 0) { //only cardinal direction movement
 hort = spd * move_hort;
 vert = spd * move_vert;
 
+//Two collision statements are used here to allow for randomization of the room, without sacrificing the core "4" shape
 if(place_meeting(x+hort, y, obj_four_wall)) {
 	
 	while(!place_meeting(x+hort, y, obj_four_wall)) {
@@ -27,9 +28,27 @@ if(place_meeting(x+hort, y, obj_four_wall)) {
 	hort = 0;	
 }
 
+if(place_meeting(x+hort, y, obj_four_block)) {
+	
+	while(!place_meeting(x+hort, y, obj_four_block)) {
+		x += sign(hort);	
+	}
+	
+	hort = 0;	
+}
+
 if(place_meeting(x, y + vert, obj_four_wall)) {
 	
 	while(!place_meeting(x, y + vert, obj_four_wall)) {
+		y += sign(vert);	
+	}
+	
+	vert = 0;	
+}
+
+if(place_meeting(x, y + vert, obj_four_block)) {
+	
+	while(!place_meeting(x, y + vert, obj_four_block)) {
 		y += sign(vert);	
 	}
 	
