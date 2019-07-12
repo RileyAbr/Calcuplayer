@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_five_triangle",
     "eventList": [
-        
+        {
+            "id": "b9f59ffe-bf1c-4bf4-8f71-0f193a8aba3e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "56f61916-d863-4ae1-9a4a-64aa69238bc5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

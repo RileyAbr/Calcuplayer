@@ -74,15 +74,7 @@
             "Key": "0e30acc8-8b0f-450c-93bd-7d37c7106e56",
             "Value": {
                 "id": "5e48aa7e-2a1b-42d3-868c-1c1eb88d13c4",
-                "resourcePath": "sprites\\spr_five_f_scissors\\spr_five_f_scissors.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "108f2328-e370-401e-aa15-65fff4b3ac95",
-            "Value": {
-                "id": "461f2439-323a-42ae-9586-d54f5033f3bd",
-                "resourcePath": "sprites\\spr_five_paper\\spr_five_paper.yy",
+                "resourcePath": "sprites\\spr_five_f_attack3\\spr_five_f_attack3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -327,6 +319,22 @@
             }
         },
         {
+            "Key": "43ab27bf-b063-4fb9-b53d-7fbdc1c2b3ca",
+            "Value": {
+                "id": "7d1489a5-6008-41f6-bbdc-0424d9a924c6",
+                "resourcePath": "sprites\\spr_five_attack3\\spr_five_attack3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "44853db8-c156-4e77-ba32-ae1e0d4755a1",
+            "Value": {
+                "id": "7345558d-f0e4-4e6f-b79e-992759b0a207",
+                "resourcePath": "sprites\\spr_five_attack2\\spr_five_attack2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "45dd63ee-827f-4986-a22b-80ae7d1d89ee",
             "Value": {
                 "id": "7b883408-5272-4e3c-b0ac-fc3e42c2ddfe",
@@ -498,7 +506,7 @@
             "Key": "6d14b082-11c7-4231-a35e-d673f958f8f1",
             "Value": {
                 "id": "1b4b8b00-6db6-41d7-a3f1-5007be3f9a6e",
-                "resourcePath": "sprites\\spr_five_f_paper\\spr_five_f_paper.yy",
+                "resourcePath": "sprites\\spr_five_f_attack2\\spr_five_f_attack2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -999,10 +1007,10 @@
             }
         },
         {
-            "Key": "e153344c-fe46-40d2-bed5-7fd8beef66be",
+            "Key": "e2dd9689-d836-4902-ad45-fe99e7604c69",
             "Value": {
-                "id": "d93fb2d4-663e-436a-b825-09b0846eafe0",
-                "resourcePath": "sprites\\spr_five_rock\\spr_five_rock.yy",
+                "id": "8e6c5ae4-1336-4926-98df-83131a539b97",
+                "resourcePath": "sprites\\spr_five_attack1\\spr_five_attack1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1011,14 +1019,6 @@
             "Value": {
                 "id": "ef0f438c-c7a5-464e-a752-1365ab13478d",
                 "resourcePath": "sprites\\spr_six_bucket\\spr_six_bucket.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e5412547-52b1-4820-84a9-6c851163a0be",
-            "Value": {
-                "id": "2aa933d7-c4c5-4d60-963f-7a848ebf4b78",
-                "resourcePath": "sprites\\spr_five_scissors\\spr_five_scissors.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1106,7 +1106,7 @@
             "Key": "f401dd08-53ac-45da-8058-d28d765c8ce2",
             "Value": {
                 "id": "982ba035-3556-40ca-bedc-5c33d2b0979c",
-                "resourcePath": "sprites\\spr_five_f_rock\\spr_five_f_rock.yy",
+                "resourcePath": "sprites\\spr_five_f_attack1\\spr_five_f_attack1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1114,7 +1114,7 @@
             "Key": "f4036991-c1e0-472d-a0a2-5ff16cf7393a",
             "Value": {
                 "id": "db547d37-fdac-4938-9191-1f397d2f3d8b",
-                "resourcePath": "sprites\\spr_five_triangle_rps\\spr_five_triangle_rps.yy",
+                "resourcePath": "sprites\\spr_five_triangle\\spr_five_triangle.yy",
                 "resourceType": "GMSprite"
             }
         },

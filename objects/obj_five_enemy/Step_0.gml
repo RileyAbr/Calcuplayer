@@ -26,13 +26,19 @@ if(global.turnOver && !readyToFight) {
 	
 	switch(enemyAttack) {
 		case 1:
-			sprite_index = spr_five_f_rock;
+			sprite_index = spr_five_f_attack1
+			image_index = global.attack_types;
+			image_speed = global.attack_sprite_speed;
 			break;
 		case 2:
-			sprite_index = spr_five_f_paper;
+			sprite_index = spr_five_f_attack2;
+			image_index = global.attack_types;
+			image_speed = global.attack_sprite_speed;
 			break;
 		case 3:
-			sprite_index = spr_five_f_scissors;
+			sprite_index = spr_five_f_attack3;
+			image_index = global.attack_types;
+			image_speed = global.attack_sprite_speed;
 			break;
 	}
 	
