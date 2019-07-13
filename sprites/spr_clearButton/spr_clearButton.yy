@@ -2,7 +2,7 @@
     "id": "7ac005e8-a52a-4b0f-b345-e4a3d13ed4b5",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_equalsButton",
+    "name": "spr_clearButton",
     "For3D": false,
     "HTile": false,
     "VTile": false,

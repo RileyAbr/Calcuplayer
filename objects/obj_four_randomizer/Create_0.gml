@@ -46,7 +46,7 @@ while(!player_placed) {
 	
 	if(randomizer[# player_start_x, player_start_y] == -1) {
 		randomizer[# player_start_x, player_start_y] = 1;
-		instance_create_layer((grid_top_left) + 32 * player_start_x, 32 * player_start_y, 
+		instance_create_layer(((grid_top_left) + 32 * player_start_x) + 16, (32 * player_start_y) + 16, 
 							"Instances", obj_four_player);
 		player_placed = true;
 	}
@@ -80,7 +80,7 @@ while(!key_placed) {
 
 //Place random blocks for obstacles
 //Iterates twice for a second dimensional array
-var blocks_to_generate = irandom_range(50, 70);
+var blocks_to_generate = irandom_range(35, 50);
 for(var i = 0; i < blocks_to_generate; i++) {
 	var block_start_x = irandom(15); //16 is the width of the grid
 	var block_start_y = irandom(18); //19 is the height of the grid

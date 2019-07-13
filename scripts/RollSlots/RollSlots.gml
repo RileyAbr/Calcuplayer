@@ -16,12 +16,16 @@ window_one_value = irandom(6);
 
 //This statement helps the user get closer to 777 the longer they pull
 if(global.times_pulled > 7) {
-	if(random(1) <= (global.times_pulled / 18)) //Takes a real number between 0.0-1.0 to compare to the amount of times pulled
+	if(random(1) <= (global.times_pulled / 15)) //Takes a real number between 0.0-1.0 to compare to the amount of times pulled
 	{
 		window_one_value = 7;	
 		
-		if(global.times_pulled > 12) {
+		if(global.times_pulled > 7) {
 			window_two_value = 7;	
+			
+			if(global.times_pulled >= 17) {
+				window_three_value = 7;
+			}
 		}
 	}
 }

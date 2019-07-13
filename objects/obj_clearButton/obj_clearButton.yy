@@ -2,7 +2,7 @@
     "id": "f0441747-cfaf-4069-8329-c0d65e9e775e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_equalsButton",
+    "name": "obj_clearButton",
     "eventList": [
         {
             "id": "889b73de-a716-4ef7-847b-e6033a337ae8",

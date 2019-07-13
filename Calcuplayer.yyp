@@ -650,7 +650,7 @@
             "Key": "7ac005e8-a52a-4b0f-b345-e4a3d13ed4b5",
             "Value": {
                 "id": "e969b420-321c-4fcb-a3b9-da7de2dc83e6",
-                "resourcePath": "sprites\\spr_equalsButton\\spr_equalsButton.yy",
+                "resourcePath": "sprites\\spr_clearButton\\spr_clearButton.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1178,7 +1178,7 @@
             "Key": "f0441747-cfaf-4069-8329-c0d65e9e775e",
             "Value": {
                 "id": "6418f7ad-504b-434c-aa57-122f3d9db9e5",
-                "resourcePath": "objects\\obj_equalsButton\\obj_equalsButton.yy",
+                "resourcePath": "objects\\obj_clearButton\\obj_clearButton.yy",
                 "resourceType": "GMObject"
             }
         },
