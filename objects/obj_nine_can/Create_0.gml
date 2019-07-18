@@ -1,0 +1,1 @@
+global.cans_left++;
