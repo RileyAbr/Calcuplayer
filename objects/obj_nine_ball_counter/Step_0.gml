@@ -12,5 +12,3 @@ if(global.balls_left >= 0) {
 else {
 	room_restart();	
 }
-
-show_debug_message(global.cans_left);
