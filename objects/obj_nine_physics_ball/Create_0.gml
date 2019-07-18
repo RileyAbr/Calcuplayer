@@ -1,0 +1,1 @@
+physics_apply_impulse(x, y, 7000, -2000);	
