@@ -9,11 +9,16 @@ switch(global.operator) {
 	case "-":
 		return argument0 - argument1;
 		
-	case "*":
+	case "X":
 		return argument0 * argument1;
 		
 	case "/":
-		return floor(argument0 / argument1);
+		if(argument1 == 0) {
+			return "Er"	
+		}
+		else {
+			return floor(argument0 / argument1);
+		}
 		
 	case "+":
 	default:

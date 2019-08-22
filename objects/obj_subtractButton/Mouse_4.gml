@@ -1,1 +1,1 @@
-global.operator = "-";
+SetOperator("-");
