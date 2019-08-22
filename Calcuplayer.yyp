@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "1cb6ce12-a287-4414-b06f-d630bbd50cee",
+            "Value": {
+                "id": "75366d3c-f34a-4578-8004-e5c5d91b3945",
+                "resourcePath": "fonts\\font2\\font2.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1cf49633-2943-44ad-b4e7-df0916676c65",
             "Value": {
                 "id": "22dfd506-4c84-4cbf-a4da-608097ea5af8",
@@ -308,6 +316,14 @@
                 "id": "399ab9e7-fc22-4f7f-a539-f0b7a5ecb210",
                 "resourcePath": "objects\\obj_multiplyButton\\obj_multiplyButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "32015839-bf8e-423a-b739-1733a2cd5c3f",
+            "Value": {
+                "id": "3560a742-1daf-42d4-98af-585064db02cc",
+                "resourcePath": "sprites\\art_calculator\\art_calculator.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -551,6 +567,14 @@
             }
         },
         {
+            "Key": "5c4ab465-c030-4b12-8d7a-87ebe6f9a75c",
+            "Value": {
+                "id": "35984848-5b2c-4630-aca3-e5fbce64f6bd",
+                "resourcePath": "sprites\\art_logo\\art_logo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d7333ca-918a-4726-88d3-0e1146369eb1",
             "Value": {
                 "id": "022aa438-a5fa-4cae-8255-fb744008df43",
@@ -603,6 +627,14 @@
             "Value": {
                 "id": "032f39bb-482e-4cb6-82d9-46f6f81d6c34",
                 "resourcePath": "sprites\\spr_two_squ\\spr_two_squ.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "684d77f7-87ae-4466-9c19-5235b342b8eb",
+            "Value": {
+                "id": "082623b2-8a8f-4282-9d64-2fbd3c7132be",
+                "resourcePath": "sprites\\art_calc_display\\art_calc_display.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -935,6 +967,14 @@
             }
         },
         {
+            "Key": "a294498a-7951-45d7-86a9-b3e54e727b2d",
+            "Value": {
+                "id": "41570ed2-ebb6-463b-8300-92dac536ffed",
+                "resourcePath": "sprites\\bg_paper\\bg_paper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4be9a45-9232-4aa7-a761-f05607db3c69",
             "Value": {
                 "id": "539492ff-24c6-414f-8c86-6f7162058ddf",
@@ -1055,6 +1095,14 @@
             }
         },
         {
+            "Key": "b6b0997d-0225-4952-9778-87c4de82399d",
+            "Value": {
+                "id": "99840835-38ac-4bd3-95cc-ea97bccc635b",
+                "resourcePath": "objects\\art_obj_calculator\\art_obj_calculator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b979ee93-cacd-4ddf-b0f1-d29f3c0c188f",
             "Value": {
                 "id": "fa2925c0-54e7-4328-8f35-ee77e4866416",
@@ -1123,6 +1171,14 @@
             "Value": {
                 "id": "88edcc56-4af4-49cd-b1c7-77544784b755",
                 "resourcePath": "objects\\obj_six_ball\\obj_six_ball.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c14cab7a-443c-457f-9254-f708b6842697",
+            "Value": {
+                "id": "b44a84df-e34b-46df-ac92-60c0661a1f51",
+                "resourcePath": "objects\\art_obj_logo\\art_obj_logo.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1228,6 +1284,14 @@
                 "id": "0884e445-0216-40c5-a71d-e5737e7bc295",
                 "resourcePath": "rooms\\room_levelEight\\room_levelEight.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "da74bc5f-879b-4735-bf26-c1f409936093",
+            "Value": {
+                "id": "0f01ec74-db51-4ee5-93a9-a50b22ae3b0d",
+                "resourcePath": "objects\\art_obj_calc_display\\art_obj_calc_display.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1507,6 +1571,14 @@
             "Value": {
                 "id": "34ba9f65-2aff-4653-9bff-86504ceabda7",
                 "resourcePath": "objects\\obj_zero_counter\\obj_zero_counter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe99a4cc-87cd-4c16-98eb-990b719482d1",
+            "Value": {
+                "id": "fc9ab5d3-959c-4e41-89f2-82f5cd0ae89f",
+                "resourcePath": "objects\\test_placeholder\\test_placeholder.yy",
                 "resourceType": "GMObject"
             }
         },
