@@ -1,0 +1,1 @@
+guide_handler(room_to_goto);

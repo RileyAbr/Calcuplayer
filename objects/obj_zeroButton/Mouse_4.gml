@@ -1,1 +1,1 @@
-SetDigits(0, room_levelZero);
+level_handler(0);
