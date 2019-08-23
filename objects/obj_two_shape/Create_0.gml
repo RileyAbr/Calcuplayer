@@ -5,7 +5,7 @@ if(id = global.shape_to_change_id) {
 	
 	if(shape_sprite_odd = 1) {	
 		selected_shape -= 1;
-		if(selected_shape < 1) selected_shape = 3;
+		if(selected_shape < 0) selected_shape = 2;
 	}
 	else {
 		selected_shape += 1;
@@ -14,12 +14,13 @@ if(id = global.shape_to_change_id) {
 }
 
 if(selected_shape == 0) {
-	sprite_index = spr_two_squ;	
+	sprite_index = spr_two_circ;	
 }
 else if(selected_shape == 1) {
 	sprite_index = spr_two_tri;
 }
 else {
-	sprite_index = spr_two_circ;
+	sprite_index = spr_two_squ;
 }
 
+image_angle = irandom(360);

@@ -1,4 +1,4 @@
-draw_set_color("#000000");
+draw_set_color($000000);
 draw_set_font(font_calculator_number);
 
 // Draw the first digit

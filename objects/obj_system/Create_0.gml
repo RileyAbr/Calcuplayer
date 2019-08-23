@@ -10,7 +10,10 @@ global.digit[0] = false;
 global.digit[1] = false;
 global.digit[2] = false;
 
-global.drawDigits = false;
+global.room_visited = false;
+global.room_visited[0] = false; 
+global.room_visited[1] = false; 
+global.room_visited[2] = false; 
 
 
 //Used in the RollSlots method;
