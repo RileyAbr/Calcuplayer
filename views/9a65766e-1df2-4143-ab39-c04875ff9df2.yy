@@ -5,7 +5,7 @@
     "name": "9a65766e-1df2-4143-ab39-c04875ff9df2",
     "children": [
         "e4bd0ea3-3fb6-4d29-8462-1e519f6370a6",
-        "b6543b04-ddd9-4898-aaa4-f5fb152c8f90"
+        "0318a4d4-7ce5-41e2-9f1e-45efe5f4b4aa"
     ],
     "filterType": "GMSprite",
     "folderName": "spr_levelSix",
