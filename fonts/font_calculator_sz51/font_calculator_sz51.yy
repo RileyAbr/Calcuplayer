@@ -2,7 +2,7 @@
     "id": "c41f5deb-8d56-4a6f-b0da-d0cbbb018d32",
     "modelName": "GMFont",
     "mvc": "1.1",
-    "name": "font_calculator_number",
+    "name": "font_calculator_sz51",
     "AntiAlias": 1,
     "TTFName": "",
     "ascenderOffset": 0,

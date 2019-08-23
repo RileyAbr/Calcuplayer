@@ -1306,7 +1306,15 @@
             "Key": "c41f5deb-8d56-4a6f-b0da-d0cbbb018d32",
             "Value": {
                 "id": "059e2ceb-a67f-4846-9790-016708e0efbb",
-                "resourcePath": "fonts\\font_calculator_number\\font_calculator_number.yy",
+                "resourcePath": "fonts\\font_calculator_sz51\\font_calculator_sz51.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "c801aeb5-9b15-4989-8a2c-75e250ddcc7b",
+            "Value": {
+                "id": "58e8a50a-7115-4323-8da6-6b86633ddaa2",
+                "resourcePath": "fonts\\font_round_sz64\\font_round_sz64.yy",
                 "resourceType": "GMFont"
             }
         },

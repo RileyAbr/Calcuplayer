@@ -1,5 +1,10 @@
+// Set up all the RNG
 randomize();
 
+//Basic font color
+global.blackFontColor = $000000;
+
+// Variables that hold the values from the calculator buttons
 global.firstDigit = "";
 global.operator = "";
 global.secondDigit = "";

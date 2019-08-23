@@ -1,5 +1,7 @@
-draw_set_color($000000);
-draw_set_font(font_calculator_number);
+draw_set_color(global.blackFontColor);
+draw_set_font(font_calculator_sz51);
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
 
 // Draw the first digit
 if(global.digit[0]) {
