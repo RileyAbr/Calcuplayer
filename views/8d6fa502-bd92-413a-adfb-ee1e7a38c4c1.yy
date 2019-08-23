@@ -6,7 +6,8 @@
     "children": [
         "b97f749f-42d2-433a-a9a9-55dd31d059da",
         "bf842f48-5ac0-43dc-a1a9-a0ee9b655a2f",
-        "403413db-84dc-4312-b51b-31cd3baa66ef"
+        "403413db-84dc-4312-b51b-31cd3baa66ef",
+        "42a5e291-c227-4b3f-9f81-5ab2ac37e41b"
     ],
     "filterType": "GMSprite",
     "folderName": "bg_levels",

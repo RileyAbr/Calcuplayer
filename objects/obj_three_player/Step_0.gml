@@ -11,15 +11,15 @@ var move = key_right - key_left;
 hort = move * spd;
 vert += grav;
 
-if(place_meeting(x, y + 1, obj_three_platform) && (key_jump)) {
+if(place_meeting(x, y + 1, obj_three_boundary) && (key_jump)) {
 	vert = -jumpheight;	
 }
 
 
 //Hortizontal Movement
-if(place_meeting(x+hort, y, obj_three_platform)) {
+if(place_meeting(x+hort, y, obj_three_boundary)) {
 	
-	while(!place_meeting(x+hort, y, obj_three_platform)) {
+	while(!place_meeting(x+hort, y, obj_three_boundary)) {
 		x += sign(hort);	
 	}
 	
@@ -29,9 +29,9 @@ if(place_meeting(x+hort, y, obj_three_platform)) {
 x += hort;
 
 //Gravity & Jumping
-if(place_meeting(x, y + vert, obj_three_platform)) {
+if(place_meeting(x, y + vert, obj_three_boundary)) {
 	
-	while(!place_meeting(x, y + vert, obj_three_platform)) {
+	while(!place_meeting(x, y + vert, obj_three_boundary)) {
 		y += sign(vert);	
 	}
 	
