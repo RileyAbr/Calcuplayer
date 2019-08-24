@@ -6,6 +6,6 @@ can_pull_bar = true;
 winner_timer = 0;
 
 money_earned = 0;
-is_money_summed = false;
-roll_values = array_builder(irandom(3), 7, irandom(5));
+is_money_summed = true;
+roll_values = array_builder(0, 0, 0);
 triple_roll = "";

@@ -15,16 +15,19 @@ if(roll_values[0] == roll_values[1]) {
 		switch(roll_values[2]) {
 			case 7:
 				can_pull_bar = false;
-				if(winner_timer > (room_speed * 2)) {
-					triple_roll = 7;
-				}
 				break;
 		}
 	}
 }
 
-if(triple_roll = 7) {
-
-	room_goto(room_calculator);
+// Game has been won
+if(!can_pull_bar) {
+	if(winner_timer < (room_speed * 2)) {
+		winner_timer++;
+		
+	}	
+	else {
+		room_goto(room_calculator);	
+	}
 }
 
