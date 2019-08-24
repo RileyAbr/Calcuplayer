@@ -6,7 +6,7 @@ draw_set_valign(fa_middle);
 
 // Draw the running money score
 draw_set_halign(fa_right);
-draw_text(642, 48, "$" + string_format(money_earned, 0, 0));
+draw_text(642, 52, "$" + string_format(money_earned, 0, 0));
 
 
 draw_set_halign(fa_center);
