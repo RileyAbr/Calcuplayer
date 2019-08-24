@@ -1,0 +1,7 @@
+# No need to have all the psd and assets stored when they are generated as sprites in-game
+assets/
+
+# The credits are added into the GitHub description already
+credits.txt
+
+*.zip
