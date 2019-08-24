@@ -9,7 +9,8 @@
         "e2dd9689-d836-4902-ad45-fe99e7604c69",
         "44853db8-c156-4e77-ba32-ae1e0d4755a1",
         "43ab27bf-b063-4fb9-b53d-7fbdc1c2b3ca",
-        "f4036991-c1e0-472d-a0a2-5ff16cf7393a"
+        "f4036991-c1e0-472d-a0a2-5ff16cf7393a",
+        "2774ed07-908c-47f9-8855-86eb48969e8d"
     ],
     "filterType": "GMSprite",
     "folderName": "spr_levelFive",

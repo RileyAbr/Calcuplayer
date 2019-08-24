@@ -1,1 +1,0 @@
-room_to_goto = 9;

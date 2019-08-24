@@ -27,5 +27,9 @@ global.room_visited[7] = false;
 global.room_visited[8] = false; 
 global.room_visited[9] = false;  
 
+
+//Used within the Duel minigame
+global.last_battle_type = 2;
+
 //Used in the RollSlots method;
 global.times_pulled = 0;
