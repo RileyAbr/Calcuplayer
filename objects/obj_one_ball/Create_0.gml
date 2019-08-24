@@ -3,6 +3,9 @@
 
 spd = 9.5;
 
+// If the ball hits nothing for 6 seconds, resets the game
+timeout = 0;
+
 randomSelector = random_range(0, 1);
 if (randomSelector == 1) speed = spd; else speed = -spd;
 direction = round(random(360));
