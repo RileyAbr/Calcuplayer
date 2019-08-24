@@ -1,21 +1,25 @@
 if((x + (sprite_width / 2) < 0) 
 	|| (x - (sprite_width / 2) > room_width)) {
-	global.aiming = true;
-	global.create_ball = true;
 	instance_destroy();
+	//global.aiming = true;
+	global.create_ball = true;
+	
 }
 else if(y - (sprite_height / 2) > room_height) {
-	global.aiming = true;
-	global.create_ball = true;
 	instance_destroy();
+	//global.aiming = true;
+	global.create_ball = true;
+	
 }
 else if(stationary_timer == 0) {
-	global.aiming = true;
-	global.create_ball = true;
 	instance_destroy();	
+	
+	//global.aiming = true;
+	global.create_ball = true;
+	
 }
 
-if(place_meeting(x, y + 2, obj_nine_stand)) {
+if(place_meeting(x, y + (sprite_height / 2), obj_nine_platform)) {
 	stationary_timer--;	
 }
 

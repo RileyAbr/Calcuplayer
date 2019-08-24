@@ -9,7 +9,8 @@
         "403413db-84dc-4312-b51b-31cd3baa66ef",
         "42a5e291-c227-4b3f-9f81-5ab2ac37e41b",
         "85a74c10-9e03-459d-a442-db7561ea75e9",
-        "898c0c9c-77e1-4e67-ae36-fd1d1f3db1ee"
+        "898c0c9c-77e1-4e67-ae36-fd1d1f3db1ee",
+        "8771e2af-db4b-4221-9650-68bc648ba29e"
     ],
     "filterType": "GMSprite",
     "folderName": "bg_levels",
