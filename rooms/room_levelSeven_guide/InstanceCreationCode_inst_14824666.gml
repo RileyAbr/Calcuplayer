@@ -1,0 +1,1 @@
+room_to_goto = 7;

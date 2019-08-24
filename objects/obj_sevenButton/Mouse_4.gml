@@ -1,1 +1,1 @@
-SetDigits(7, room_levelSeven);
+level_handler(7);

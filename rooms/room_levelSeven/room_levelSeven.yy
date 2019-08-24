@@ -7,10 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "3888a582-5bda-46cf-92af-381333f8a690",
-        "a79cddb6-12bf-4317-8c28-a56d4276281d",
-        "3b866756-836d-4947-8712-56f7005704db",
-        "c31036bb-6089-421b-99ff-3a7783887115"
+        "3888a582-5bda-46cf-92af-381333f8a690"
     ],
     "IsDnD": false,
     "layers": [
@@ -28,10 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_5A182BF1","id": "3888a582-5bda-46cf-92af-381333f8a690","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5A182BF1","objId": "3a60320c-d595-4f2c-b242-d7a0643d8a29","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 672,"y": 128},
-{"name": "window_three","id": "a79cddb6-12bf-4317-8c28-a56d4276281d","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_window_three.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "window_three","objId": "5bc9dfc6-2577-44d3-a392-af214b07ec59","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 576,"y": 192},
-{"name": "window_two","id": "3b866756-836d-4947-8712-56f7005704db","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_window_two.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "window_two","objId": "5bc9dfc6-2577-44d3-a392-af214b07ec59","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 480,"y": 192},
-{"name": "window_one","id": "c31036bb-6089-421b-99ff-3a7783887115","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_window_one.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "window_one","objId": "5bc9dfc6-2577-44d3-a392-af214b07ec59","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 384,"y": 192}
+{"name": "inst_5A182BF1","id": "3888a582-5bda-46cf-92af-381333f8a690","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5A182BF1","objId": "3a60320c-d595-4f2c-b242-d7a0643d8a29","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 676,"y": 126}
             ],
             "layers": [
 
@@ -49,7 +43,7 @@
             "id": "88a9b775-4f40-4f46-bba1-1aef768b2e7a",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4286545919 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
@@ -68,7 +62,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "f3d917da-f966-44d5-9960-2b91ea017e68",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,

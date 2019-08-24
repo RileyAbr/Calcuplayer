@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "206b859c-e927-41dc-bc0e-0938ea49b0db",
+            "Value": {
+                "id": "8dc4164b-3261-424a-bf64-65afc7cc52d8",
+                "resourcePath": "rooms\\room_levelSeven_guide\\room_levelSeven_guide.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "20b7b34b-d183-4712-b6c0-b61e2317f825",
             "Value": {
                 "id": "9f0fd93a-1fba-45c6-b9a7-5b8c787451fe",
@@ -719,11 +727,11 @@
             }
         },
         {
-            "Key": "5bc9dfc6-2577-44d3-a392-af214b07ec59",
+            "Key": "5b64a645-56e2-4f5f-a5b9-4858aad80e61",
             "Value": {
-                "id": "25090763-04f7-4843-ab74-c66ad3cceb26",
-                "resourcePath": "objects\\obj_seven_window\\obj_seven_window.yy",
-                "resourceType": "GMObject"
+                "id": "961a122a-0713-48d3-ab30-5e13b91a5151",
+                "resourcePath": "sprites\\bg_seven_guide\\bg_seven_guide.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -908,6 +916,14 @@
                 "id": "f32f2e5d-c0b4-4426-893a-9d797f527ed3",
                 "resourcePath": "sprites\\spr_four_door\\spr_four_door.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "741f045e-d6ba-426a-a4d4-a5c92fd2039a",
+            "Value": {
+                "id": "852c3bae-147f-4b78-a602-b17e1aa08649",
+                "resourcePath": "views\\741f045e-d6ba-426a-a4d4-a5c92fd2039a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1883,6 +1899,14 @@
             "Value": {
                 "id": "93afa5f8-1080-422c-b2e8-a92b4b3b190a",
                 "resourcePath": "sprites\\spr_one_ball\\spr_one_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3d917da-f966-44d5-9960-2b91ea017e68",
+            "Value": {
+                "id": "e9038829-bd0c-4496-af6f-f58a2b83f0e3",
+                "resourcePath": "sprites\\bg_seven\\bg_seven.yy",
                 "resourceType": "GMSprite"
             }
         },

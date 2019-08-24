@@ -1,1 +1,0 @@
-window_number = ""; //set in each individual roller windows in the levelSeven room

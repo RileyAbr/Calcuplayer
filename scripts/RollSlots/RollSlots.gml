@@ -23,14 +23,15 @@ if(global.times_pulled > 7) {
 		if(global.times_pulled > 7) {
 			window_two_value = 7;	
 			
-			if(global.times_pulled >= 17) {
+			if(global.times_pulled >= 14) {
 				window_three_value = 7;
 			}
 		}
 	}
 }
 
-//The next value brings modifies the seven possible results to be within 1 value of the value previously selected
+//The next value brings modifies the seven possible results to be within 1 
+//value of the value previously selected
 window_two_value = irandom(6);
 if(window_two_value + 1 == window_one_value || window_two_value - 1 == window_one_value) {
 	window_two_value = window_one_value;
@@ -48,10 +49,5 @@ if(window_three_value + 1 == window_two_value
 window_values = array_builder(window_one_value, window_two_value, window_three_value);
 
 global.times_pulled += 1;
-
-//For testing purposes
-show_debug_message(window_values);
-show_debug_message(global.times_pulled);
-show_debug_message((global.times_pulled / 30));
 
 return window_values;
