@@ -8,7 +8,7 @@
         "cb293264-f5c1-4a86-9b77-1f5cf3199c74"
     ],
     "filterType": "GMObject",
-    "folderName": "obj_calcButtons",
+    "folderName": "obj_calculator",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "44ccfbea-ed88-4f58-88d7-d9d93d995259",
+            "Value": {
+                "id": "92abd4d4-5eb4-4d21-9590-d873a54a0ba5",
+                "resourcePath": "sprites\\art_riley\\art_riley.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "45dd63ee-827f-4986-a22b-80ae7d1d89ee",
             "Value": {
                 "id": "7b883408-5272-4e3c-b0ac-fc3e42c2ddfe",
@@ -719,6 +727,14 @@
             }
         },
         {
+            "Key": "578724e3-937e-43a6-8274-eeb77685ecf7",
+            "Value": {
+                "id": "b9fe6813-38c2-4d51-9ae4-4b2eb6f70fd5",
+                "resourcePath": "sprites\\art_title\\art_title.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "59f2fac4-3280-4c88-8a32-5f7e61c39d19",
             "Value": {
                 "id": "80690247-c5bb-444a-b6e2-22980062b890",
@@ -828,6 +844,14 @@
                 "id": "082623b2-8a8f-4282-9d64-2fbd3c7132be",
                 "resourcePath": "sprites\\art_calc_display\\art_calc_display.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69443686-87fc-474e-9afa-c1ac4d841c47",
+            "Value": {
+                "id": "f5e5393c-db31-415e-99c6-939929957ddf",
+                "resourcePath": "objects\\art_obj_riley\\art_obj_riley.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1163,6 +1187,14 @@
             "Value": {
                 "id": "1ad643e8-e8dd-476c-9c34-65f70657ef47",
                 "resourcePath": "objects\\obj_nine_ball_counter\\obj_nine_ball_counter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "993f486f-7101-48f6-a874-7766a8351f35",
+            "Value": {
+                "id": "aaf48672-d655-41e9-8094-6b7f3b7a31ca",
+                "resourcePath": "objects\\art_obj_title\\art_obj_title.yy",
                 "resourceType": "GMObject"
             }
         },
